@@ -1,1 +1,23 @@
 theme: jekyll-theme-minimal
+name: Marcus Tan Zhi Wei
+title: Marcus Tan's Portfolio
+description: Hi there
+email: marcus@mtss.dev
+url: https://github.com/marcustan-dev/mysite
+logo: https://avatars1.githubusercontent.com/u/54130573
+cover: https://avatars1.githubusercontent.com/u/54130573
+resume: https://avatars1.githubusercontent.com/u/54130573
+social:
+  - title: email
+    url: mailto:marcus@mtss.dev
+  - title: github
+    url: https://github.com/marcustan-dev
+  - title: linkedin
+    url: https://www.linkedin.com/in/marcustanzw
+address: 
+ 	- street: Jalan Setia Gemilang U13/45b
+	- city: Shah Alam
+	- state: Selangor
+	- zip: 40170
+	- country: Malaysia
+website: https://mtss.dev/
